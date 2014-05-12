@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='MarkdownHighlight',
-    version='0.1.1',
+    version='0.1.2',
     packages=['MarkdownHighlight',],
     license='Apache License 2.0',
     long_description=open('README.txt').read(),
