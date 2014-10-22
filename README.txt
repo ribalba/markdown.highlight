@@ -1,7 +1,7 @@
 markdown.highlight
 ==================
 
-Adds the possibility to use "??? something ???" to create a span that looks like <mark>something</mark>
+Adds the possibility to use "??? something ???" or "___ something ___" to create a span that looks like <mark>something</mark>
 
 Install through pip:
 
