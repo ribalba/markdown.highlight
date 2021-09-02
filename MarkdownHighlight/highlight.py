@@ -7,7 +7,7 @@ from markdown.inlinepatterns import SimpleTagPattern
 from markdown.extensions import Extension
 
 # Global Vars
-MARK_RE =r'(\?{3}|-{3}|={2})(.*?)(\?{3}|_{3}|={2})'  
+MARK_RE =r'(\?{3}|={2})(.*?)(\?{3}|={2})'  
 
 class HighlightExtension(Extension):
     """Adds MARK_RE extension to Markdown class."""
