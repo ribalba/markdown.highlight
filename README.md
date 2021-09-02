@@ -15,3 +15,6 @@ from MarkdownHighlight.highlight import HighlightExtension
 
 result = markdown.markdown(textToRender, output_format="html5", extensions=[HighlightExtension,]) )
 ```
+
+## Changelog
+ - 2021.9.1 - updated readme from .txt to .md
