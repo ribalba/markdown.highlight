@@ -5,7 +5,7 @@ Adds the possibility to use ```??? something ???``` or ```___ something ___``` t
 
 Install through pip:
 
-$ pip install MarkdownHighlight
+```$ pip install MarkdownHighlight```
 
 To enable the MarkdownHighlight package and use it in your markdown generation just add it like so:
 
